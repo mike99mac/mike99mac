@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mike99mac, Mike Mac
 - 👀 I’m interested in great sounding music, computers and voice input.
-- 🌱 I’m learning both by putting a Raspberry Pi in a boombox and installing voice assisten software (Mycroft).  See https://www.smartboomboxes.com
+- 🌱 I’m learning both by putting a Raspberry Pi in a boombox and installing voice assistant software (Mycroft).  See https://www.smartboomboxes.com
 - 💞️ I’m looking to collaborate on this startup company.
 - 📫 You can reach me at mike99mac at gmail dot com.
 
